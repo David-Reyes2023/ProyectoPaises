@@ -2,7 +2,7 @@ const express = require('express');
 
 const app  = express();
 
-const DUMMY_PAISES = [
+const DUMMY_PLACES = [
     {
         id: 'p1',
         pais: 'Ecuador',
